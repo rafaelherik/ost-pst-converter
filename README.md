@@ -10,7 +10,7 @@ Convert .ost to .pst files using a simple console application
 ## Building the Application
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ost-pst-converter.git
+   git clone https://github.com/rafaelherik/ost-pst-converter.git
    cd ost-pst-converter
    ```
 
